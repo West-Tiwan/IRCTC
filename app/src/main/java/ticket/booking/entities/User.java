@@ -7,5 +7,5 @@ public class User {
         private String password;
         private String hashpassword;
         private List<Ticket> ticketsBooked;
-        private String userID;
+        private String userId;
 }

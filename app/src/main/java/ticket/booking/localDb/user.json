@@ -1,0 +1,28 @@
+[
+  {
+    "user_id": "12345",
+    "name": "Mai Ka Lal Jai Kisan",
+    "hashpassword": "efc545v7sdv",
+    "tickets_booked": [{
+      "source": "Bangalore",
+      "destination": "Delhi",
+      "date_of_travel": "2023-12-03t18:30:00z",
+      "train": {
+        "train_id": "biba",
+        "train_no": 46164,
+        "seats": [
+          [0,0,0,0,0,0],
+          [0,0,0,0,0,0],
+          [0,0,0,0,0,0],
+          [0,0,0,0,0,0]
+        ],
+        "stations": {
+          "Bangalore": "13:50:00",
+          "Jaipur": "13:50:00",
+          "Delhi": "13:50:00"
+        }
+      }
+    }]
+  },
+  {}
+]
