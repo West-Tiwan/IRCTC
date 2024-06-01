@@ -1,4 +1,4 @@
-package org.example;
+package ticket.booking.entities;
 
 import java.util.List;
 
