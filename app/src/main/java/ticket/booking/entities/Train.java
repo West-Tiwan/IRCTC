@@ -1,6 +1,5 @@
 package ticket.booking.entities;
 
-import java.sql.Time;
 import java.util.List;
 import java.util.Map;
 
